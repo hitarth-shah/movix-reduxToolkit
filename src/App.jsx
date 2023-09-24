@@ -11,7 +11,7 @@ import Header from "./commonComponents/header/Header";
 import Details from "./Components/details/Details";
 import SearchResult from "./Components/searchResult/SearchResult";
 import Explore from "./Components/explore/Explore";
-import PageNotFound from "./Components/404/pageNotFound";
+import PageNotFound from "./Components/404/PageNotFound";
 
 function App() {
   const dispatch = useDispatch();
